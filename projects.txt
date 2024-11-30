@@ -1,0 +1,3 @@
+60 days of projects
+
+Day 1 - AI Color Pallete Generator
